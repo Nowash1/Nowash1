@@ -10,5 +10,5 @@
 
 | Status | Name |
 |--------|------|
-|   ❔   | TEMP_VM |
+|    ❔   | TEMP_VM |
 
