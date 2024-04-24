@@ -6,5 +6,6 @@
 # CURRENT PROJECTS
 
 | Status | Name |
+|--------|------|
 |   🟡   | RASM |
 
