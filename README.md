@@ -2,8 +2,8 @@
 
 
 # Hi, 
-### I'm a an independent developer in the **United States**. I primarily work in C/C++, Rust, and TypeScript.  👋
-- Currently aspiring to attend the Univeristy of Munich in die Deutschland.
+### I'm a a developer in the **United States**. I primarily work in C/C++, Rust, and TypeScript.  👋
+- Currently aspiring to attend the Univeristy of Munich in Germany.
 - Learning The Rust Programming Language
 - Developing a chip-8 knockoff
 
