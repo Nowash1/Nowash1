@@ -2,7 +2,7 @@
 
 
 # Hi, 
-### I'm a a developer in the **United States**. I primarily work in C/C++, Rust, and TypeScript.  👋
+### I'm a solo developer in the United States.  👋
 
 - Commiting to attend the Technical Univeristy of Munich in Munich, Germany.
 - Developing an intermediate language & standard for transpiling purposes.
