@@ -3,7 +3,8 @@
 
 # Hi, 
 ### I'm a a developer in the **United States**. I primarily work in C/C++, Rust, and TypeScript.  👋
-- Currently aspiring to attend the Univeristy of Munich in Germany.
+
+- Commiting to attend the Technical Univeristy of Munich in Munich, Germany.
 - Developing an intermediate language & standard for transpiling purposes.
 
 ## Contact Me
