@@ -6,13 +6,13 @@
 - Thinking about minecraft optimization, not sure..
 - Developing an intermediate language & standard for transpiling purposes.
 ---
-I'm knowledgeable in general computing as well as the programming languages listed in TOOLS.
+I'm knowledgeable in general computing as well as the programming languages listed in in my tools.
 
 ## Contact Me
 - Email: **You thought.*
 - Discord: "standardc1"
 
-# TOOLS
+## Tools I use..
 - Rust Programming Language
 - C/C++ Programming Language(s)
 - JS/TS Web Development
