@@ -8,7 +8,7 @@
 - Developing an intermediate language & standard for transpiling purposes.
 
 ## Contact Me
-- Email: ramos.noaha27@gmail.com
+- Email: *to be added here*
 
 # TOOLS
 - Rust Programming Language
