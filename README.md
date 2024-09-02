@@ -3,7 +3,7 @@
 
 - Commiting to attend the Technical Univeristy of Munich in Munich, Germany.
 - Thinking about minecraft optimization, not sure..
-- Developing an intermediate language & standard for transpiling purposes.
+- Working on open source sofware everywhere.
 ---
 I'm knowledgeable in general computing as well as the programming languages listed in in my tools.
 
